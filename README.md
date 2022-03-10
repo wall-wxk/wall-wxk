@@ -1,4 +1,13 @@
-### Hi there 👋
+### leon
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wall-wxk&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+你好~ 我是 leon ，生活在广州，现为荔枝集团业务架构部的一名资深前端工程师，曾就职于凡科、网金，做过前端、后端，是一名全栈技术的实践者。  
+正准备自己的第一本电子书书稿[《前端面试手册》](http://interview.wangxiaokai.vip/#/)。  
+ 
+如果你想聊聊【前端】，可以给我[发邮件](mailto:582104384@.com)，也可以直接加我QQ：582104384。  
+
+
 
 <!--
 **wall-wxk/wall-wxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
